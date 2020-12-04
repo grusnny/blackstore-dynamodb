@@ -27,11 +27,11 @@ namespace blackstore_firebase_api.Entity
         [DynamoDBProperty]
         public string description { get; set; }
         [DynamoDBProperty]
-        public int price { get; set; }
+        public float price { get; set; }
         [DynamoDBProperty]
         public string currency { get; set; }
         [DynamoDBProperty]
-        public int rating { get; set; }
+        public float rating { get; set; }
 
     }
 }

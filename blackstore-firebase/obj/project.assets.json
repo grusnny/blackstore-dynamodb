@@ -1458,11 +1458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eland\\Desktop\\blackstore-firebase\\blackstore-firebase\\blackstore-firebase.csproj",
-      "projectName": "blackstore-firebase",
-      "projectPath": "C:\\Users\\eland\\Desktop\\blackstore-firebase\\blackstore-firebase\\blackstore-firebase.csproj",
+      "projectUniqueName": "C:\\Users\\eland\\Desktop\\blackstore-dynamodb\\blackstore-firebase\\blackstore-dynamodb.csproj",
+      "projectName": "blackstore-dynamodb",
+      "projectPath": "C:\\Users\\eland\\Desktop\\blackstore-dynamodb\\blackstore-firebase\\blackstore-dynamodb.csproj",
       "packagesPath": "C:\\Users\\eland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eland\\Desktop\\blackstore-firebase\\blackstore-firebase\\obj\\",
+      "outputPath": "C:\\Users\\eland\\Desktop\\blackstore-dynamodb\\blackstore-firebase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eland\\AppData\\Roaming\\NuGet\\NuGet.Config",

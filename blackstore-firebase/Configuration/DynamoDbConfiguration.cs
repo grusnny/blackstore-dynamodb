@@ -171,8 +171,8 @@ namespace blackstore_firebase_api.Configuration
                 ConsistentRead = true
             });
             if (product == null)
-                return "Book is deleted";
-            return "Book is not deleted";
+                return "Product is deleted";
+            return "Product is not deleted";
         }
 
     }
